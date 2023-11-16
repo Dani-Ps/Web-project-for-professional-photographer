@@ -2,30 +2,29 @@
 
 ![Bygalisteo Logo](assets/logo/ico/favicon-og.ico) 
 
-¡Bienvenido a Bygalisteo! Este es el repositorio de la web que he creado para mi proyecto personal.
+Welcome to Bygalisteo! This is the repository for the website I've created for my personal project.
 
-## Acerca de mí
+## About Me
 
-Mi nombre es Daniel Pérez Serrano y soy el desarrollador detrás de Bygalisteo. Puedes conocer más sobre mí y explorar mis proyectos en:
+My name is Daniel Pérez Serrano, and I am the developer behind Bygalisteo. You can learn more about me and explore my projects on:
 
 - [GitHub](https://github.com/Dani-Ps)
 - [LinkedIn](https://www.linkedin.com/in/daniel-p%C3%A9rez-serrano-130479216/)
 
-## Tecnologías Utilizadas
+## Technologies Used
 
-Bygalisteo ha sido construido utilizando las siguientes tecnologías:
+Bygalisteo has been built using the following technologies:
 
 - HTML
 - CSS
 - JavaScript
 
-## Uso del Template
+## Template Usage
 
-Este sitio web se creó a partir de un template HTML/CSS proporcionado por TemplatesJungle.com. 
+This website was created from an HTML/CSS template provided by TemplatesJungle.com.
 
-## Contacto y Feedback
+## Contact and Feedback
 
-Si encuentras algún problema en el sitio o tienes sugerencias para mejoras, ¡házmelo saber! Puedes contactarme a través de mi [LinkedIn](https://www.linkedin.com/in/daniel-p%C3%A9rez-serrano-130479216/) o si prefieres a traves de mi [email](mailto:daniperez439²gmail.com).
+If you encounter any issues on the site or have suggestions for improvements, let me know! You can reach out to me via [LinkedIn](https://www.linkedin.com/in/daniel-p%C3%A9rez-serrano-130479216/) or, if you prefer, through my [email](mailto:daniperez439@gmail.com).
 
-
-¡Gracias por visitar Bygalisteo!
+Thanks for visiting Bygalisteo!
