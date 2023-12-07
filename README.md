@@ -2,8 +2,8 @@
 
 ![Bygalisteo Logo](assets/logo/ico/favicon-og.ico)
 
-[Welcome to Bygalisteo!](https://bygalisteo.com/)
 This is the repository for the website I've created for my personal project.
+[Click to visit.](https://bygalisteo.com/)
 
 ## About Me
 
