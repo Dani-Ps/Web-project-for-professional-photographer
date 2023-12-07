@@ -1,6 +1,6 @@
 # Bygalisteo - Personal Project Website
 
-![Bygalisteo Logo](assets/logo/ico/favicon-og.ico) 
+![Bygalisteo Logo](assets/logo/ico/favicon-og.ico)
 
 Welcome to [Bygalisteo](https:www.bygalisteo.com)! This is the repository for the website I've created for my personal project.
 

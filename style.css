@@ -629,7 +629,11 @@ header {
     max-width: 520px;
     z-index: 2;
 }
-
+@media screen and (max-width: 400px){
+    .breadcrumb{
+        justify-content: center;
+    }
+}
 @media screen and (max-width: 767px) {
     #billboard .text-content {
         position: relative;
@@ -671,9 +675,6 @@ header {
         font-size: 0.9rem !important;
     }
     #about {
-        display: none;
-    }
-    .btn {
         display: none;
     }
 }
@@ -751,9 +752,6 @@ header {
         font-size: 0.9rem !important;
     }
     #about {
-        display: none;
-    }
-    .btn {
         display: none;
     }
     .footer-sub {

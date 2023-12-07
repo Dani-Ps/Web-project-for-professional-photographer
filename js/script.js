@@ -105,6 +105,11 @@ function showVideo(videoSource) {
   videoElement.controlsList = "nodownload";
   videoElement.src = videoSource;
   videoPopup.style.display = "block";
+  $("#header.fixed-top").hide();
+
+  videoPopup.style.display = "block";
+
+
 }
 
 function closeVideo() {
@@ -113,4 +118,6 @@ function closeVideo() {
   const videoElement = videoPopup.querySelector("video");
   videoElement.pause();
   videoElement.src = "";
+  $("#header.fixed-top").show();
+
 }
