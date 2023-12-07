@@ -2,7 +2,7 @@
 
 ![Bygalisteo Logo](assets/logo/ico/favicon-og.ico)
 
-[Welcome to Bygalisteo](https://bygalisteo.com/){:target="_blank"}! This is the repository for the website I've created for my personal project.
+<a href="https://bygalisteo.com/" target="_blank">Welcome to Bygalisteo</a> This is the repository for the website I've created for my personal project.
 
 ## About Me
 
